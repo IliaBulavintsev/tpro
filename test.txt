@@ -1,2 +1,3 @@
 	new line insert
+line from master new!
 
